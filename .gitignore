@@ -1,0 +1,15 @@
+*.a
+*.o
+*.o.d
+
+*.iml
+*.pyc
+.gradle
+/local.properties
+/.idea
+.idea/
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures

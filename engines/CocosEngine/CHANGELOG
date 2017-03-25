@@ -1,0 +1,11 @@
+3.10.0.5
+1 修复使用文本编辑框会崩溃的问题
+
+
+3.10.0.2
+
+1.修复从jni调用Cocos2dxRender setAnimationInterval 方法失败的问题
+
+
+
+
